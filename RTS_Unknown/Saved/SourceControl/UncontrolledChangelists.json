@@ -5,7 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/BP_Player.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/LevelPrototyping/Cursor/T_Arrow.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/LevelPrototyping/Cursor/M_Cursor.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/LevelPrototyping/Cursor/SM_CursorMesh.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/LevelPrototyping/Cursor/FX_Cursor.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/Cursor/FX_Cursor.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/Cursor/SM_CursorMesh.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/Cursor/M_Cursor.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/Cursor/T_Arrow.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/BP_PlayerPawn.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/IA_Zoom.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/IA_RotateCamera.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/MainWorld.umap",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/SQ/545CFIXSFKQ1HN0LVZHVXB.uasset"
 			]
 		}
 	]
