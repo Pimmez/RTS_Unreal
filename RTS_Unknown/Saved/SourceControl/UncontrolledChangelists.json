@@ -53,6 +53,8 @@
 				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/BP_PlayerStartCamp.uasset",
 				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/RTS_GameModeBase.uasset",
 				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/Interfaces/I_Multiplayer.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/Materials/M_UnitColors.uasset",
+				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/Materials/M_BuildingColors.uasset",
 				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/RTS_Unknown/BP_Player.uasset",
 				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"C:/GithubFolder/RTS_Unreal/RTS_Unknown/Content/Cursor/FX_Cursor.uasset",
